@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/images/identicon_bw.png" alt="identicon-bw" />
+<img src="/images/identicon_bw_transparent.png" alt="identicon-bw" />
 </p>
 
 
