@@ -13,7 +13,7 @@
   <img src="/images/loading.gif" alt="lloading" />
   
   
- <h4>Books I am reading or studying: </h4>
+ <h4>Books I am reading: </h4>
  <p>
   <img alt="Fundamentals of Astrodynamics" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573306887l/15984639.jpg" width="19.5%" height="19.5%">
   <img alt="mlp" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591766339l/53928375._SY475_.jpg" width="20%" height="20%" >
