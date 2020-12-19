@@ -19,7 +19,7 @@
   <img alt="mlp" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591766339l/53928375._SY475_.jpg" width="20%" height="20%" >
   <img id="coverImage" alt="Data Visualization" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545849576l/39964443._SX318_.jpg" width="24%" height="24%">
   <img id="coverImage" alt="Data Science for Business" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374654260l/17912916.jpg" width="23%" height="23%">
-  <p>
+  </p>
   <P>  
   <img src="https://github-readme-stats.vercel.app/api?username=Xavier4t" > 
     
