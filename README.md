@@ -10,7 +10,7 @@
   </p>
   <h4>Projects I'm working on:</h4>
   
-  <a href="https://luthierproject.com/"><img alt="luthierproject" src="https://img.shields.io/website?down_color=blue&down_message=coming%20soon&label=The%20Luthier%20Project%20&up_color=green&up_message=online&url=https%3A%2F%2Fluthierproject.com%2F"></a>
+  <a href="https://luthierproject.com/"><img alt="luthierproject" src="https://img.shields.io/website?down_color=red&down_message=coming%20soon&label=The%20Luthier%20Project%20&up_color=green&up_message=online&url=https%3A%2F%2Fluthierproject.com%2F"></a>
   
   
  <h4>Books I am reading: </h4>
