@@ -10,8 +10,10 @@
   <h4>Projects I'm working on:</h4>
   
    <a href="https://datumaerospace.ai"><img alt="datumaerospace" src="https://img.shields.io/website?down_color=red&down_message=coming%20soon&label=Datum%20Aerospace%20&up_color=green&up_message=online&url=https%3A%2F%2Fdatumaerospace.ai%2F"></a>
+   
+   <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=coming%20soon&up_color=green&up_message=online&url=http%3A%2F%2Fluthierproject.com">
   
-  <a href=""><img alt="luthierproject" src="https://img.shields.io/website?down_color=red&down_message=coming%20soon&label=The%20Luthier%20Project%20&up_color=green&up_message=online&url=https%3A%2F%2Fluthierproject.com%2F"></a>
+  <a href="http://luthierproject.com"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=coming%20soon&up_color=green&up_message=online&url=http%3A%2F%2Fluthierproject.com"></a>
   
   
  <h4>Data Science books I am reading: </h4>
