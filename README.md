@@ -1,5 +1,5 @@
 
-<h2>Hi there,<br>I am an Aerospace Engineer</h2>
+<h2>Hi there,<br>I am an Aerospace Engineer and Data Science enthusiast.</h2>
 <div style="text-align:center;">
   <p>
   <h4>Contact:</h4>
