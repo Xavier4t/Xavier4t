@@ -14,14 +14,18 @@
   <a href="https://luthierproject.com/"><img alt="luthierproject" src="https://img.shields.io/website?down_color=red&down_message=coming%20soon&label=The%20Luthier%20Project%20&up_color=green&up_message=online&url=https%3A%2F%2Fluthierproject.com%2F"></a>
   
   
- <h4>Books I am reading: </h4>
+ <h4>Data Science books I am reading: </h4>
  <p>
-   <img alt="Machine Learning" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630784301i/57345273.jpg" width="24.3%" height="24.3%">
-   <img alt="Machine Learning" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571123692l/40363665.jpg" width="23%" height="23%">
+   <img alt="Approaching Almost Any ML Problem" src="https://images-na.ssl-images-amazon.com/images/I/41he7lvNPGL._SX331_BO1,204,203,200_.jpg" width="24.3%" height="24.3%">
+   <img alt="Deep Learning with Python" src="https://images.manning.com/book/a/2a49d38-96e5-4bf7-8555-57f689c52ebf/Chollet-2ed-HI.png" width="19.5%" height="19.5%">	
+   <img alt="Deep Learning for Vision Systems" src="https://images.manning.com/360/480/resize/book/4/bc144d6-7bd7-4e4f-80db-482b69819225/Elgendy-DLVS-HI.png" width="24.3%" height="24.3%">
+   <img alt="Practical Machine Learning for Computer Vision" src="https://images-na.ssl-images-amazon.com/images/I/41nqS-BXneL._SX379_BO1,204,203,200_.jpg" width="24.3%" height="24.3%">
+   <img alt="Hands-on Machine Learning" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571123692l/40363665.jpg" width="23%" height="23%">
    <img alt="Machine Design Patterns" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599583594l/55275019.jpg" width="23%" height="23%">
-     <img id="coverImage" alt="Data Visualization" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545849576l/39964443._SX318_.jpg" width="24%" height="24%">
-     
-  <img alt="Fundamentals of Astrodynamics" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573306887l/15984639.jpg" width="19.5%" height="19.5%">
+   <img alt="Data Visualization" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545849576l/39964443._SX318_.jpg" width="24%" height="24%">
+   <img alt="NNFS" src="https://cdn.shopify.com/s/files/1/0329/1696/3467/products/nnfs-book_3b5c794d-4891-4363-8cb6-a2d871311c09_550x825.png?v=1603819021" width="19.5%" height="19.5%">
+   <img alt="Effective Pandas" src="https://d31ezp3r8jwmks.cloudfront.net/f1tsrrhltugwl407dhto4gvw6o6g" width="19.5%" height="19.5%">
+   <img alt="Data Science for Business" src="https://images-na.ssl-images-amazon.com/images/I/51fftrpF8jL._SX379_BO1,204,203,200_.jpg" width="19.5%" height="19.5%">
 
   </p>
   <P>  
