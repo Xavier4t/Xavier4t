@@ -3,7 +3,7 @@
 <div style="text-align:center;">
   <p>
   <h4>Contact:</h4>
-  <a href="https://franciscojperez.com/"><img alt="Website" src="https://img.shields.io/website?down_color=greyd&down_message=in%20construction&label=franciscojperez.com&up_color=blue&up_message=online&url=http%3A%2F%2Ffranciscojperez.com%2F"></a> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <a href="https://franciscojperez.com/"><img alt="Website" src="https://img.shields.io/website?down_color=redd&down_message=in%20construction&label=franciscojperez.com&up_color=blue&up_message=online&url=http%3A%2F%2Ffranciscojperez.com%2F"></a> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="https://www.linkedin.com/in/franciscojperez-engineer/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-in-blue" ></a>
    
   </p>
