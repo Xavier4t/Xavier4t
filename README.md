@@ -9,7 +9,8 @@
   </p>
   <h4>Projects I'm working on:</h4>
   
-  <a href="https://datumaerospace.ai"><img alt="datum" src="https://img.shields.io/website?down_color=red&down_message=coming%20soon&label=Datum%20Aerospace%20&up_color=green&up_message=online&url=https%3A%2F%2Fdatumaerospace.ai%2F"></a>
+  <a href="https://github.com/Xavier4t/luthierproject.com"><img alt="luthier" src="https://img.shields.io/website?down_color=red&down_message=coming%20soon&label=Datum%20Aerospace%20&up_color=green&up_message=online&url=https%3A%2F%2Fgithub.com/Xavier4t/luthierproject.com
+%2F"></a>
   
   <a href="https://datumaerospace.ai"><img alt="datum" src="https://img.shields.io/website?down_color=red&down_message=coming%20soon&label=Datum%20&up_color=green&up_message=online&url=https%3A%2F%2Fdatumaerospace.ai%2F"></a>
   
