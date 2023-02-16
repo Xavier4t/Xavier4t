@@ -19,7 +19,7 @@
  <h4>My Data Science books collection: </h4>
  <p>
    <img alt="Approaching Almost Any ML Problem" src="https://images-na.ssl-images-amazon.com/images/I/41he7lvNPGL._SX331_BO1,204,203,200_.jpg" width="10.1%" height="10.1%">
-   <img alt="Deep Learning with Python" src="https://images.manning.com/book/a/2a49d38-96e5-4bf7-8555-57f689c52ebf/Chollet-2ed-HI.png" width="12.15" height="12.15%">	
+   <img alt="Deep Learning with Python" src="https://images.manning.com/book/a/2a49d38-96e5-4bf7-8555-57f689c52ebf/Chollet-2ed-HI.png" width="12.15%" height="12.15%">	
    <img alt="Deep Learning for Vision Systems" src="https://images.manning.com/360/480/resize/book/4/bc144d6-7bd7-4e4f-80db-482b69819225/Elgendy-DLVS-HI.png" width="12.15%" height="12.15%">
    <img alt="Feature Engineering" src="https://images.manning.com/book/8/f6399a9-b27c-4177-9d88-1e1721710cdb/Ozdemir-HI.png" width="12.15%" height="12.15%">
    <img alt="Forecasting" src="https://images.manning.com/book/8/f6399a9-b27c-4177-9d88-1e1721710cdb/Ozdemir-HI.png" width="12.15%" height="12.15%">
