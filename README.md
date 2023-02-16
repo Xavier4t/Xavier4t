@@ -30,7 +30,7 @@
    <img alt="Data Visualization" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545849576l/39964443._SX318_.jpg" width="12%" height="12%">
    <img alt="Data Science for Business" src="https://images-na.ssl-images-amazon.com/images/I/51fftrpF8jL._SX379_BO1,204,203,200_.jpg" width="11.5%" height="11.5%">
    <img alt="NNFS" src="https://i.ytimg.com/an/G7RDn8Xtf_Y/6b3e48d3-8fe4-406f-aa59-42b24ad99816_mq.jpg?v=5e18a529" width="15%" height="15%">
-   <img alt="Effective Pandas" src="https://d31ezp3r8jwmks.cloudfront.net/f1tsrrhltugwl407dhto4gvw6o6g" width="10%" height="10%">
+   <img alt="Effective Pandas" src="https://d31ezp3r8jwmks.cloudfront.net/f1tsrrhltugwl407dhto4gvw6o6g" width="10.5%" height="10.5%">
   
 
   </p>
