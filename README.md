@@ -14,13 +14,13 @@
   <a href="https://datumaerospace.ai"><img alt="datum" src="https://img.shields.io/website?down_color=red&down_message=coming%20soon&label=Datum%20&up_color=green&up_message=online&url=https%3A%2F%2Fdatumaerospace.ai%2F"></a>
   
   
-  <h4>Books I'm consulting in my current projects: </h4>
+  <h4>Books I'm studying for my current projects: </h4>
   <p>
      <img alt="Niu" src="https://m.media-amazon.com/images/I/516vU0aYoeL._SX366_BO1,204,203,200_.jpg" width="10.1%" height="10.1%">
      <img alt="Theoretical Aeroydynamics" src="https://m.media-amazon.com/images/I/71+W6Z8q2+L._AC_UF1000,1000_QL80_.jpg" width="10.1%" height="10.1%">
      <img alt="Wing Theory" src="https://m.media-amazon.com/images/I/61iD9t5Yy1L._AC_UF1000,1000_QL80_.jpg" width="10.1%" height="10.1%">
      <img alt="Theory of Wing Sections" src="https://m.media-amazon.com/images/I/619iDhimM4L._AC_UF1000,1000_QL80_.jpg" width="10.1%" height="10.1%">
-     <img alt="Fundementals od Aerodynamics" src="https://m.media-amazon.com/images/I/518PtWhh3kL._AC_UF1000,1000_QL80_.jpg" width="10.1%" height="10.1%">
+     <img alt="Fundementals od Aerodynamics" src="https://m.media-amazon.com/images/I/518PtWhh3kL._AC_UF1000,1000_QL80_.jpg" width="12.1%" height="12.1%">
   
   </p>
   
