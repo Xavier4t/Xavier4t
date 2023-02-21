@@ -14,7 +14,7 @@
   <a href="https://datumaerospace.ai"><img alt="datum" src="https://img.shields.io/website?down_color=red&down_message=coming%20soon&label=Datum%20&up_color=green&up_message=online&url=https%3A%2F%2Fdatumaerospace.ai%2F"></a>
   
   
-  <h4>Books I'm consulting for my current project: </h4>
+<!--   <h4>Books I'm consulting for my current project: </h4>
   <p>
      <img alt="Niu" src="https://m.media-amazon.com/images/I/516vU0aYoeL._SX366_BO1,204,203,200_.jpg" width="13%" height="13%">
      <img alt="Theoretical Aeroydynamics" src="https://m.media-amazon.com/images/I/71+W6Z8q2+L._AC_UF1000,1000_QL80_.jpg" width="12%" height="12%">
@@ -41,7 +41,7 @@
    <img alt="Effective Pandas" src="https://d31ezp3r8jwmks.cloudfront.net/f1tsrrhltugwl407dhto4gvw6o6g" width="10.5%" height="10.5%">
   
 
-  </p>
+  </p> -->
   <P>  
   <img src="https://github-readme-stats.vercel.app/api?username=Xavier4t" > 
     
